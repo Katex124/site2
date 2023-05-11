@@ -43,6 +43,10 @@ header {
 	margin-top: -30;
 }
 
+.main {
+	background-color: #000000;
+}
+
 .left {
 	margin-right: 500px;
 	margin-top: 50;
