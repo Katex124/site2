@@ -3,6 +3,10 @@
 	
 }
 
+body {
+	background-color: #ffffff;
+}
+
 h1 {
 	float: center;
 	text-align: left;
@@ -41,10 +45,6 @@ header {
 	height: 1420px;
 	margin: -8 -8 -9;
 	margin-top: -30;
-}
-
-.main {
-	background-color: #ffffff;
 }
 
 .left {
